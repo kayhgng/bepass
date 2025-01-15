@@ -12,6 +12,8 @@
 1. ابتدا فایل `beepassmobham.js` رو از فولدر `src` دانلود کنین.
 2. بعد از دانلود، ورکر رو بسازین و کدهای مبهم‌سازی شده رو در آن وارد کنید.
 3. آدرس ورکر خودتون رو باز کنید و اگر با صفحه موفقیت مواجه شدید، به مرحله بعدی برید.
+## Screenshot
+![KayHGNG](https://github.com/kayhgng/bepass/blob/main/images/Screenshot%20(333).png?raw=true)
 
 ## مراحل نصب پلاگین `bepass` در نکوری:
 
@@ -23,8 +25,11 @@
 4. در بخش `Advanced Plugin`، آن را فعال کنید.
 5. دوباره به صفحه `Home` نرم‌افزار Nekoray برگردید و آدرس ورکر خود را به صورت زیر ویرایش کنید:  
    `https://name.workers.dev/dns-query`
+
+   ## Screenshot
+   ![KayHGNG](https://github.com/kayhgng/bepass/blob/main/images/photo_2025-01-15_10-19-06.jpg?raw=true)
    
-6. حالا کانفیگ خام زیر رو کپی کنید و در نرم‌افزار Nekoray در قسمت Import قرار بدید و ویرایش رو بزنید.
+7. حالا کانفیگ خام زیر رو کپی کنید و در نرم‌افزار Nekoray در قسمت Import قرار بدید و ویرایش رو بزنید.
 
 **کانفیگ خام:**  
 ```
@@ -35,6 +40,10 @@ sn://neko?eNqllMFu00AQhoPEK3BHRusLwbGdpE0irVDqpiJSBVFbwSVStYkHx2SzDrtrtQVxKFcQgj
 7. روی دکمه مداد برای ویرایش کلیک کنید و در قسمت `worker address`، آدرس ورکر خودتون رو که ویرایش کرده‌اید وارد کنید.
 
 8. به ورکر متصل شوید. (ممکن است پینگ ندهد ولی وصل خواهد بود.)
+
+## Screenshot
+![KayHGNG](https://github.com/kayhgng/bepass/blob/main/images/photo_2025-01-15_10-19-08.jpg?raw=true)
+![KayHGNG](https://github.com/kayhgng/bepass/blob/main/images/photo_2025-01-15_10-19-10.jpg?raw=true)
 
 ---
 
